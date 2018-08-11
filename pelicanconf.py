@@ -21,8 +21,8 @@ DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = [
     ('Home', '/'),
     ('Getting Started', '/getting-started/'),
-    ('Status Updates', '/status/'),
-    ('Fixes & Errata', '/fixes/'),
+    ('Prizes', '/prizes/'),
+    ('Announcements & Updates', '/status/'),
     ('Services', '/services/'),
     ('FAQ', '/faq/'),
 ]
@@ -35,6 +35,7 @@ STATIC_PATHS = [ 'static' ]
 EXTRA_PATH_METADATA = {
     'static/vand.png': {'path': '../static/vand.png'},
     'static/dc562.png': {'path': '../static/dc562.png'},
+    'static/prizes.jpg': {'path': '../static/prizes.jpg'},
 }
 
 TIMEZONE = 'America/Los_Angeles'
