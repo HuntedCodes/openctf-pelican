@@ -2,6 +2,7 @@ Title: Status Updates & Announcements
 
 ## Announcements
 
+- PC LOAD LETTER hint: "Milton set the building on *fire*"
 - New challenges open: **MULTIBALL!!!!**
 
 
