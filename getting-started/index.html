@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <title>Getting Started</title>
+        <link rel="stylesheet" href="/posts/theme/css/main.css" />
+
+        <!--[if IE]>
+            <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="/posts/">OpenCTF @ DefCon 26 </a></h1>
+                <nav><ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/getting-started/">Getting Started</a></li>
+                    <li><a href="/status/">Status Updates</a></li>
+                    <li><a href="/faq/">FAQ</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+    <h1 class="entry-title">Getting Started</h1>
+    
+    <h2>Registration</h2>
+<ol>
+<li>Go to the right side of our event table, where the little receipt
+   printer is.</li>
+<li>Give your team name.</li>
+<li>You will receive a printed receipt with a SSH key (the QR code) and a
+   password for the shell box.</li>
+<li>Use a QR reader to scan the receipt code, and save the SSH key to your
+   machine.</li>
+</ol>
+<h2>Connecting to Contest WiFi</h2>
+<p>If you were lucky enough to find a free network cable, congrats.
+For everyone else, we are coodinating wireless access with the DefCon NOC.
+Our WiFi runs on the same hardware as the official WiFi, and should be
+accessible near and far.</p>
+<ol>
+<li>Register for DefCon Wifi: <a href="https://wifireg.defcon.org">https://wifireg.defcon.org</a></li>
+<li>Using the <strong>exact same</strong> settings as the DefCon WiFi, connect to the OpenCTF SSID: <code>openCTF</code>.</li>
+</ol>
+<h2>Accessing the Scoreboard</h2>
+<p>The contest scoreboard is located at: <strong><a href="https://scoreboard.openctf.com">scoreboard.openctf.com</a></strong> (172.31.1.5).</p>
+<p>You can view a real time listing of open/solved challenges and the leaderboard
+through the web.</p>
+<p>To submit flags, you need to log into the scoreboard via SSH. Only key
+authentication is allowed (no passwords). For example, if your registered
+team name is <code>f00</code> and you saved your SSH key as <code>$HOME/.ssh/mykey</code>, then
+connect with:</p>
+<div class="highlight"><pre><span></span>ssh -i $HOME/.ssh/mykey f00@scoreboard.openctf.com
+</pre></div>
+
+
+<h2>The Shell Box</h2>
+<p>If you don't have a *nix machine, or are limited to a web browser, fear not!</p>
+<p>We are providing a FreeBSD shell box to players, accessible over SSH and HTTPS,
+located at: <strong><a href="https://shell.openctf.com">shell.openctf.com</a></strong> (172.31.2.2).</p>
+<p>You can authenticate with either the SSH key or password on your registration
+receipt.</p>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>links</h2>
+                        <ul>
+                            <li><a href="https://openctf.com">V& (Vand)</a></li>
+                            <li><a href="https://dc562.org/">DC 562</a></li>
+                            <li><a href="https://scoreboard.openctf.com/">OpenCTF Scoreboard</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>
