@@ -21,6 +21,10 @@ Many generous benefactors have donated prizes to this year's competition
 
 There are two categories of winners: point-based, and writeup-based.
 
+All prizes will be distributed to winning teams at the appropriate closing ceremony on Sunday, August 12. If you believe your team may be eligible for prizes, but are unable to attend, please let us know *before the end of the contest today*, and we will attempt to accommodate on a case-by-case basis.
+
+Writeups must be made publicly available, and announced to us, no later than Sunday, August 12 at 12:00 PM.
+
 ### Point-based
 1. The top-scoring team, with at least 3 publicly-posted writeups, will win 1st place. To qualify for 1st place prizes, your team *must* provide at least 3 moderate-quality writeups.
 2. The 2nd-highest score, with at least 2 publicly-posted writeups, will win 2nd place. To qualify for 2nd place prizes, your team *must* provide at least 1 moderate-quality writeups.
