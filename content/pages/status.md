@@ -1,5 +1,6 @@
 Title: Announcements
 
+- Prizes are now announced! Check: [openctf.com/prizes/]({filename}/pages/prizes.md)
 - PC LOAD LETTER hint: "Milton set the building on *fire*"
 - New challenges open: **MULTIBALL!!!!**
 
