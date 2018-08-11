@@ -4,8 +4,6 @@ Title: Announcements
 - New challenges open: **MULTIBALL!!!!**
 
 
-## Twitter Feeds
-
 <style>
 .j-column {
     float: left;
