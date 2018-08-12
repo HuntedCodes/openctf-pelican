@@ -1,5 +1,6 @@
 Title: Announcements
 
+- The tags for Itanic 1 have been changed from "pwnable" to "reversing and crypto"
 - **SCOREBOARD BUG BOUNTY IS OPEN. COME AT US BR0!!! V& OUT!!!**
   [https://scoreboard.openctf.com/scoreboardbugbounty-dd9dd662cb9895a2353f6c463120b9eb7fed2bfb](https://scoreboard.openctf.com/scoreboardbugbounty-dd9dd662cb9895a2353f6c463120b9eb7fed2bfb)
 - Just opened a bunch of challenges.
