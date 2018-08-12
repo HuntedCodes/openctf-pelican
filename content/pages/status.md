@@ -1,8 +1,7 @@
 Title: Announcements
 
 - **SCOREBOARD BUG BOUNTY IS OPEN. COME AT US BR0!!! V& OUT!!!**
-  [Vand Scoreboard Source (pastebin)](https://pastebin.com/nVR8gEih)
-  `zLwLE4t7eKX6J3XXcXnCsrFuDFSs8a2dQ5caJmjPnw3EXXybLNLzFxf97qUS7Xy4HTxS8mfHxpbwF3mGkG9QxYsMyefzwCQL`
+  [https://scoreboard.openctf.com/scoreboardbugbounty-dd9dd662cb9895a2353f6c463120b9eb7fed2bfb](https://scoreboard.openctf.com/scoreboardbugbounty-dd9dd662cb9895a2353f6c463120b9eb7fed2bfb)
 - Just opened a bunch of challenges.
   [#firesale](https://twitter.com/hashtag/firesale)
 - Challenge 15 | **Scoreboard Bug Bounty**, might be opened today!!! 
