@@ -19,6 +19,7 @@ Title: Announcements
 
   <div class="j-column" markdown=1>
 
+- Firewalker 3 is now solvable over the WiFi (it wasn't before).
 - OpenCTF will end between 8:00-8:30 tonight, followed by a debreifing chat
   about the game, including answers.
 - Congrats to **neg9** for hacking the scoreboard!
