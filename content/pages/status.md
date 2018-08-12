@@ -1,6 +1,6 @@
 Title: Announcements
 
-- **SCOREBOARD BUG BOUNTY IS OPEN. COME AT US BR0!!! VAND OUT!!!**
+- **SCOREBOARD BUG BOUNTY IS OPEN. COME AT US BR0!!! V& OUT!!!**
   [Vand Scoreboard Source (pastebin)](https://pastebin.com/nVR8gEih)
   `zLwLE4t7eKX6J3XXcXnCsrFuDFSs8a2dQ5caJmjPnw3EXXybLNLzFxf97qUS7Xy4HTxS8mfHxpbwF3mGkG9QxYsMyefzwCQL`
 - Just opened a bunch of challenges.
