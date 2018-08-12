@@ -1,5 +1,7 @@
 Title: Announcements
 
+- Just opened a bunch of challenges.
+  [#firesale](https://twitter.com/hashtag/firesale)
 - Challenge 15 | **Scoreboard Bug Bounty**, might be opened today!!! 
   [#UNHACKABLE](https://twitter.com/hashtag/unhackable)
   [#micdrop](https://twitter.com/hashtag/micdrop)
