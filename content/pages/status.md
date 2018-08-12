@@ -1,5 +1,6 @@
 Title: Announcements
 
+- Congrats to **neg9** for hacking the scoreboard!
 - Itanic 1 has been fixed.
 - The tags for Itanic 1 have been changed from "pwnable" to "reversing and crypto"
 - **SCOREBOARD BUG BOUNTY IS OPEN. COME AT US BR0!!! V& OUT!!!**
