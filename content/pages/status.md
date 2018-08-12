@@ -1,6 +1,6 @@
 Title: Announcements
 
-- OpenCTF will end between 8:00-8:30.
+- OpenCTF will end between 8:00-8:30 tonight.
 - Congrats to **neg9** for hacking the scoreboard!
 - Itanic 1 has been fixed.
 - The tags for Itanic 1 have been changed from "pwnable" to "reversing and crypto"
