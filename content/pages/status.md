@@ -2,7 +2,7 @@ Title: Announcements
 
 - Challenge 15 | **Scoreboard Bug Bounty**, might be opened today!!! 
   [#UNHACKABLE](https://twitter.com/hashtag/unhackable)
-  [#bitfi](https://twitter.com/hashtag/bitfi)
+  [#micdrop](https://twitter.com/hashtag/micdrop)
 - Prizes are now announced! Check: [openctf.com/prizes/]({filename}/pages/prizes.md)
 - PC LOAD LETTER hint: "Milton set the building on *fire*"
 - New challenges open: **MULTIBALL!!!!**
