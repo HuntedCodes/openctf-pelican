@@ -38,4 +38,16 @@ Copy it to the web root you want the site served from.
 
 ## Serving the Site in Development
 
+You can serve from the `output/` directory with Python3
 
+```
+cd ./output
+python3 -m http.server
+```
+
+Alternatively, the project comes with a development server.
+
+```
+./development-server.sh start
+./development-server.sh stop
+```
