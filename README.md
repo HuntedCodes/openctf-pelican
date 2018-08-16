@@ -1,8 +1,7 @@
-
-# OpenCTF info site, made with Pelican.
+# OpenCTF Site
 
 At it's heart, this is a Python project, using `pipenv`.
-
+It makes use of the [Pelican](https://blog.getpelican.com/) static site generator (SSG).
 
 ## Installation
 
@@ -12,9 +11,8 @@ sudo apt install -y python3 python3-pip
 sudo -H pip3 install pipenv
 
 # Install Project deps.
+# If for some reason you can't use pipenv, create requirements.txt from Pipfile.
 pipenv install
-# If no Pipfile
-# pipenv install -r requirements.txt
 
 # Start the virtualenv.
 pipenv shell
@@ -37,3 +35,7 @@ pelican content
 
 The generated static site will be in `/output/`.
 Copy it to the web root you want the site served from.
+
+## Serving the Site in Development
+
+
