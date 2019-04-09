@@ -1,9 +1,8 @@
 # OpenCTF Site
 
-At it's heart, this is a Python project, using `pipenv`.
-It makes use of the [Pelican](https://blog.getpelican.com/) static site generator (SSG).
+This is a Python project, using `pipenv`, for OpenCTF competition information and updates.
 
-Pelican was chosen because other people on the team are familiar with it.
+The [Pelican](https://blog.getpelican.com/) static site generator was chosen because other people on the team are familiar with it.
 
 ## Installation
 
